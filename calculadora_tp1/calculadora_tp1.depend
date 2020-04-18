@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587179999 source:c:\users\ayu\documents\repositorios2\tp_laboratorio_1\calculadora_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587179384 c:\users\ayu\documents\repositorios2\tp_laboratorio_1\calculadora_tp1\funciones.h
+	<stdio.h>
+
+1587179837 source:c:\users\ayu\documents\repositorios2\tp_laboratorio_1\calculadora_tp1\funciones.c
+	"funciones.h"
+
